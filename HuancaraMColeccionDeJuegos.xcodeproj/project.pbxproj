@@ -14,6 +14,7 @@
 		6F7BDA4F2AE86A9E00461640 /* HuancaraMColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6F7BDA4D2AE86A9E00461640 /* HuancaraMColeccionDeJuegos.xcdatamodeld */; };
 		6F7BDA512AE86AA000461640 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F7BDA502AE86AA000461640 /* Assets.xcassets */; };
 		6F7BDA542AE86AA000461640 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F7BDA522AE86AA000461640 /* LaunchScreen.storyboard */; };
+		6F7BDA5C2AE874F500461640 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7BDA5B2AE874F500461640 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6F7BDA502AE86AA000461640 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F7BDA532AE86AA000461640 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F7BDA552AE86AA000461640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F7BDA5B2AE874F500461640 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				6F7BDA462AE86A9E00461640 /* SceneDelegate.swift */,
 				6F7BDA482AE86A9E00461640 /* ViewController.swift */,
 				6F7BDA4A2AE86A9E00461640 /* Main.storyboard */,
+				6F7BDA5B2AE874F500461640 /* JuegosViewController.swift */,
 				6F7BDA502AE86AA000461640 /* Assets.xcassets */,
 				6F7BDA522AE86AA000461640 /* LaunchScreen.storyboard */,
 				6F7BDA552AE86AA000461640 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F7BDA5C2AE874F500461640 /* JuegosViewController.swift in Sources */,
 				6F7BDA4F2AE86A9E00461640 /* HuancaraMColeccionDeJuegos.xcdatamodeld in Sources */,
 				6F7BDA492AE86A9E00461640 /* ViewController.swift in Sources */,
 				6F7BDA452AE86A9E00461640 /* AppDelegate.swift in Sources */,
